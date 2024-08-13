@@ -1,140 +1,210 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
-<div align="justify">
-
-
-</div>
-<p></p>
+<!-- <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/> -->
+<h1 align="center">Hi there, I'm John Williams 👋</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+Welcome to my GitHub! With over 7 years of experience as a Full Stack Developer, I specialize in building scalable, performant, and user-centric applications. I’m passionate about writing clean, efficient code and constantly exploring new technologies to stay at the forefront of the industry.
 
 </p>
 
-## My favorite tools and technologies ⚙️
+## 🛠️ My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Frontend
 
 <table>
   <tr>
+    <td align="center"  width="96">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="65" height="65" alt="HTML" />
+      <br>HTML5
+    </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="65" height="65" alt="css" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="65" height="65" />
+      <br>
+      Sass
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tainwind" width="65" height="65" />
+      </a>
+      <br>Tainwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+       <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="65" height="65" />
+      <br>React.js
+    </td>
+       <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="65" height="65" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="65" height="65" alt="Vue.js" />
+      <br>Vue.js
+    </td>  
+  </tr>
+</table>
+
+> Backend
+
+  <table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" alt="Git" />
+      <br>Node.js
+    </td>
+    <td align="center"  width="96">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="GitLab" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
       <br>Django
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="48" height="48" alt="bootstrap" />
+      <br>Flask
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="96" height="48" alt="tailwind" />
+      <br>Ruby on Rails
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="jquery" />
+      <br>RESTful APIs
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
+        <img src="https://graphql.org/_next/static/media/logo.ad338028.svg" width="48" height="48" alt="jquery" />
+      <br>GraphQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
+        <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="48" height="48" alt="ASP.NET Core" />
+      <br>Websockets
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="48" height="48" alt="Redis" />
+      <br>PHP
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="48" height="48" alt="Postman" />
+      <br>Java(Spring Boot)
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="48" height="48" alt="Linux" />
+      <br>C#
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
+    
   </tr>
  <tr>
  </tr>
 </table>
 
-## Github stats 📊
+
+> Databases
+
+<table>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="65" height="65" alt="HTML" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="css" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Sass" width="65" height="65" />
+      <br>
+      MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="Tainwind" width="65" height="65" />
+      </a>
+      <br>Redis
+    </td>
+  </tr>
+</table>
+
+> DevOps & Techs
+
+<table>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="HTML" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="65" height="65" alt="css" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Sass" width="65" height="65" />
+      <br>
+      Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Tainwind" width="65" height="65" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Tainwind" width="65" height="65" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" alt="Tainwind" width="65" height="65" />
+      </a>
+      <br>Google Cloud
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=git" alt="Tainwind" width="65" height="65" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Tainwind" width="65" height="65" />
+      </a>
+      <br>Github
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="65" height="65" alt="HTML" />
+      <br>Jira
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-confluence-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-2-pack-logos-icons-3029929.png?f=webp&w=512" width="65" height="65" alt="HTML" />
+      <br>Confluence
+    </td>
+    
+  </tr>
+</table>
+
+## 📈 Github stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
@@ -202,12 +272,23 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
  
 </details>
 
-## Recent GitHub Activity ✅
+## 🚀 My Projects ✅
+
+Here are some of the projects I'm proud of:
+
+Project Name
+A brief description of the project, what technologies you used, and what problem it solves. Include key features and any notable achievements or metrics.
+
+Tech Stack: React, Node.js, Express, MongoDB
+Live Demo: Link
+Another Project Name
+Another brief description, emphasizing what makes this project special.
+
+Tech Stack: Angular, Django, PostgreSQL
+Live Demo: Link
 
 ![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
 
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
