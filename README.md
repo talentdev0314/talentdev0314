@@ -292,3 +292,16 @@ Live Demo: Link
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🧑‍💻 Open Source Contributions
+I enjoy contributing to open source projects and helping the developer community. Here are a few contributions I’ve made:
+
+- Open Source Project Name: Brief description of your contribution.
+- Another Contribution: Brief description.
+
+## 💬 Let's Connect!
+I’m always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to connect with me on:
+
+- Telegram
+- Skype
+- Instagram
