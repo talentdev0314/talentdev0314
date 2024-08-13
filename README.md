@@ -27,9 +27,9 @@ Welcome to my GitHub! With over 7 years of experience as a Full Stack Developer,
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tainwind" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
       </a>
-      <br>Tainwind
+      <br>Tailwind
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
@@ -136,7 +136,7 @@ Welcome to my GitHub! With over 7 years of experience as a Full Stack Developer,
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="Tainwind" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="Tailwind" width="65" height="65" />
       </a>
       <br>Redis
     </td>
@@ -162,31 +162,31 @@ Welcome to my GitHub! With over 7 years of experience as a Full Stack Developer,
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Tainwind" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Tailwind" width="65" height="65" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Tainwind" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Tailwind" width="65" height="65" />
       </a>
       <br>Azure
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" alt="Tainwind" width="65" height="65" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-cloud-icon.png" alt="Tailwind" width="65" height="65" />
       </a>
       <br>Google Cloud
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=git" alt="Tainwind" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" alt="Tailwind" width="65" height="65" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Tainwind" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Tailwind" width="65" height="65" />
       </a>
       <br>Github
     </td>
