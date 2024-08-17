@@ -143,7 +143,7 @@ Welcome to my GitHub! With over 7 years of experience as a Full Stack Developer,
   </tr>
 </table>
 
-> DevOps & Techs
+> DevOps & Techniques
 
 <table>
   <tr>
@@ -302,6 +302,4 @@ I enjoy contributing to open source projects and helping the developer community
 ## 💬 Let's Connect!
 I’m always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to connect with me on:
 
-- Telegram
-- Skype
 - Instagram
