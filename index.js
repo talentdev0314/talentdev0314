@@ -4,4 +4,4 @@ const person = (name) => {
 }
 
 console.log('hello world');
-person('12345');
+person('1234567');
